@@ -12,6 +12,6 @@ John, C., Avgar, T., Rittger, K., Smith, J.A., Stephenson, L., Stephenson, T.R.,
 
 Because Sierra bighorn are endangered, GPS data cannot be made publicly available. Please see publication for more details on data sharing.
 
-Scripts starting with 000_ are functions and parameter settings.
-Scripts starting with 00*_ are for data wrangling.
-Scripts starting with 01*_ are analyses and visualizations.
+* Scripts starting with 000_ are functions and parameter settings.
+* Scripts starting with 00*_ are for data wrangling.
+* Scripts starting with 01*_ are analyses and visualizations.
