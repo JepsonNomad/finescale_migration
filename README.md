@@ -2,11 +2,13 @@
 
 ### Overview
 
-This repository contains code to produce the results in John et al 2024, Scientific Reports (in review). 
+This repository contains code to produce the results in John et al. 2024, *Scientific Reports* (in press). 
+
+![Figure 1, a cross-sectional view of the Sierra Nevada mountains and a comparison of the migration trajectories of three bighorn sheep](plots/figure1_compressed.jpg)
 
 ### Citation
 
-John, C., Avgar, T., Rittger, K., Smith, J.A., Stephenson, L., Stephenson, T.R., and Post, E. (In review) Pursuit and escape drive fine-scale movement variation during migration in a temperate alpine ungulate. Scientific Reports.
+John, C., Avgar, T., Rittger, K., Smith, J.A., Stephenson, L., Stephenson, T.R., and Post, E. (In press) Pursuit and escape drive fine-scale movement variation during migration in a temperate alpine ungulate. Scientific Reports.
 
 ### Notes
 
